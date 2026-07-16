@@ -26,7 +26,7 @@ Final-year B.Tech CSE (AI/ML) student building AI-driven and full-stack applicat
 <!-- Snake Game Repo View -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/adijha1304/adijha1304/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+ <img src="https://raw.githubusercontent.com/adijha1304/adijha1304/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
