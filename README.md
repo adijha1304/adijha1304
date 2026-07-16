@@ -1,115 +1,51 @@
+## 💫 About Me
+
+Final-year B.Tech CSE (AI/ML) student building AI-driven and full-stack applications — focused on shipping working products, not just prototypes.
+
+**Languages:** Python, Java, JavaScript, C/C++
+
+**Frameworks & Tools:** React, FastAPI, Flask, MongoDB, MySQL, Docker, Git
+
+**Interests:** LLMs & AI agents, RAG, prompt engineering, backend architecture, applied ML
+
+**Currently working on:** AI Chatbot — an LLM-powered chatbot I'm building during my internship at ATAIN (IGT Solutions), using Python, React & FastAPI. Also building a Style & Grooming Recommendation App as my final year project — a full-stack tool that suggests hairstyles, grooming, and fashion based on user input (in progress).
+
+🎓 B.Tech CSE (AI/ML), ITS Engineering College, Greater Noida (AKTU)
+🤝 Open to internships, full-time roles, and collaboration in AI/ML & full-stack dev
+
+---
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adityajha7796) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/aditya-jha-9878572a6) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AdityaJha799570) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jhaaditya1304@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
+
+---
+
+<!-- Snake Game Repo View -->
+
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/adijha1304/adijha1304/main/assets/banner.gif" width="100%" alt="banner"/>
-
-# Hi There, I'm Aditya Jha 👋
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(AI%2FML)+%7C+Final+Year+Student;Software+Development+Intern+%40+ATAIN+(IGT+Solutions);Building+AI+Agents%2C+LLM+Apps+%26+Full-Stack+Products" alt="Typing SVG" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-jha-9878572a6/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhaaditya1304@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=adijha1304&style=for-the-badge&color=2F80ED)](https://github.com/adijha1304)
-
+  <img src="https://raw.githubusercontent.com/adijha1304/adijha1304/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
-## 🚀 About Me
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=adijha1304&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=adijha1304&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=adijha1304&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-I'm a final-year B.Tech Computer Science (AI/ML) student, currently working as a **Software Development Intern at ATAIN (an IGT Solutions company)**, building AI-driven applications with LLMs, APIs, and React. I love turning ideas into real, working products — from AI agents to full-stack web apps.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=adijha1304&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 🤖 Building AI-powered chatbots for different domains using Large Language Models (LLMs)
-- 🐍 Developing Python-based backend applications and automation tools
-- 🔗 Integrating REST APIs and AI APIs into web applications
-- ⚛️ Building responsive front-end applications with React
-- 🧠 Learning prompt engineering, RAG, AI agents, and modern GenAI technologies
-- ☁️ Exploring scalable AI application development and deployment
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-🎓 **Education:** B.Tech, CSE (AI/ML) — ITS Engineering College, Greater Noida (AKTU University)
-
-⚙️ **Current Interests:** Agentic AI • RAG (Retrieval-Augmented Generation) • LangChain • LangGraph • MCP (Model Context Protocol) • AI Agents • Vector Databases • FastAPI • Docker
-
-🤝 **Open to:** Internship, full-time, and collaboration opportunities in AI/ML, GenAI, and full-stack development
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=adijha1304&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=adijha1304&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🧠 Tech Stack
-
-**Languages:** Python • Java • JavaScript • C • C++
-
-**Frontend:** React • Next.js • HTML5 • CSS3 • Tailwind CSS
-
-**Backend:** Flask • FastAPI • ASP.NET Core • REST APIs
-
-**AI / Machine Learning:** Large Language Models (LLMs) • Google Gemini API • Prompt Engineering • NLP • TensorFlow • PyTorch • Scikit-learn • Pandas • NumPy • Matplotlib
-
-**API Development & Integration:** REST API Development • API Integration • Postman • JSON
-
-**Databases:** MongoDB • MySQL • SQLite
-
-**Developer Tools:** Git • GitHub • VS Code • Jupyter Notebook • MongoDB Compass • MySQL Workbench • Docker
-
-**Cloud & Platforms:** Oracle Cloud Infrastructure (OCI) • AWS • Render
-
-**Design:** Figma • Canva
-
----
-
-## 🔥 Featured Projects
-
-### 🤖 AI-Powered Resume Analyzer
-
-An AI-based web application that analyzes resumes, extracts key information, evaluates ATS compatibility, identifies missing skills, and provides personalized suggestions to help users optimize their resumes for job applications.
-
-Built with **Python**, **Flask**, **Google Gemini API**, **PyMuPDF**, **HTML**, **CSS**, **JavaScript**, and **NLP**.
-
-🔗 [View Repository](https://github.com/adijha1304/Resume_Analyser_using_python)
-
-### 🎬 Movie Recommendation System
-
-A content-based movie recommendation system that suggests similar movies based on genres, cast, crew, keywords, and overview using cosine similarity, with posters and details fetched via the TMDB API.
-
-Built with **Python**, **Pandas**, **NumPy**, **Scikit-learn**, **CountVectorizer**, **Cosine Similarity**, **Streamlit**, and the **TMDB API**.
-
-🔗 [View Repository](https://github.com/adijha1304/Movie_Recommendation_System)
-
-### 🗂️ Item Hierarchy Management System
-
-A full-stack CRUD web application that lets users create, update, delete, and manage hierarchical items with parent-child relationships, backed by a RESTful API and a responsive interface.
-
-Built with **ASP.NET Core**, **C#**, **Entity Framework Core**, **SQLite**, **REST API**, **HTML**, **CSS**, and **Bootstrap**.
-
-🔗 [View Repository](https://github.com/adijha1304/ItemHierarchyApp)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=adijha1304&show_icons=true&theme=transparent&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
-<img src="https://streak-stats.demolab.com?user=adijha1304&theme=transparent&hide_border=true" width="48%" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[LinkedIn](https://www.linkedin.com/in/aditya-jha-9878572a6/) • [Email](mailto:jhaaditya1304@gmail.com) • [GitHub](https://github.com/adijha1304)
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ "Building today what I want to ship tomorrow." ✨
-
-<img src="https://raw.githubusercontent.com/adijha1304/adijha1304/output/github-contribution-grid-snake.svg" alt="snake animation" />
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
